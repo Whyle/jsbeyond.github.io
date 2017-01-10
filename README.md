@@ -7,5 +7,5 @@ Huawei Honor 5X:
      RR      :https://www.androidfilehost.com/?w=files&flid=114595   
      XOSP    :https://www.androidfilehost.com/?w=files&flid=143206   
      crDroid :https://www.androidfilehost.com/?w=files&flid=113241 
-     slimrom :https://www.androidfilehost.com/?w=files&flid=108791
+     slimrom :https://www.androidfilehost.com/?w=files&flid=108791
      AospExtended:https://www.androidfilehost.com/?w=files&flid=141042
