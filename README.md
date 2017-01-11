@@ -10,8 +10,6 @@ Support devices：Huawei Honor 5X
      slimrom :https://www.androidfilehost.com/?w=files&flid=108791
      AospExtended:https://www.androidfilehost.com/?w=files&flid=141042
 
-Copyright (C) 2017 The LineageOS Project
-
 Device configuration for Huawei Honor 5X
 ========================================
 
