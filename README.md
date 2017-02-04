@@ -1,4 +1,4 @@
-Support devices：Huawei Honor 5X
+Support devices：Huawei Honor 5X(“原味Android荣耀5x刷机群” 194179249)
 
  AICP    :https://www.androidfilehost.com/?w=files&flid=128285
  
@@ -21,6 +21,7 @@ Support devices：Huawei Honor 5X
  Twrp_kiwi:https://www.androidfilehost.com/?fid=817550096634743584
 
 Testing:
+
 zephyros:https://www.androidfilehost.com/?w=files&flid=116371
 
 Validus:https://www.androidfilehost.com/?w=files&flid=142818
