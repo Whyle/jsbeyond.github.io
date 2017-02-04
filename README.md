@@ -1,6 +1,7 @@
 Support devices：Huawei Honor 5X(“原味Android荣耀5x刷机群” 194179249)
 
- AICP    :https://www.androidfilehost.com/?w=files&flid=128285
+ ### AICP
+ https://www.androidfilehost.com/?w=files&flid=128285
  
  AOKP    :https://www.androidfilehost.com/?w=files&flid=120463
  
