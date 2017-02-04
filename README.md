@@ -1,6 +1,5 @@
 ## Welcome to My GitHub Pages
-Support devices：Huawei Honor 5X（欢迎加入“原味Android荣耀5x刷机”群 194179249）
-
+Support devices：Huawei Honor 5X
      AICP    :https://www.androidfilehost.com/?w=files&flid=128285
      AOKP    :https://www.androidfilehost.com/?w=files&flid=120463    
      RR      :https://www.androidfilehost.com/?w=files&flid=114595   
