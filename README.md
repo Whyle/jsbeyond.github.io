@@ -1,4 +1,6 @@
-# Support Huawei Honor5x (“原味Android荣耀5x刷机群” 194179249)
+# Support Huawei Honor5x 
+
+# (“原味Android荣耀5x刷机群” 194179249)
 
 ### AICP
 
