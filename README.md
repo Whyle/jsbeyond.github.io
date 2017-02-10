@@ -29,6 +29,9 @@ https://www.androidfilehost.com/?w=files&flid=146719
 ### SudaMod
 https://www.androidfilehost.com/?w=files&flid=144463
 
+### Candy
+https://www.androidfilehost.com/?w=files&flid=151309
+
 ### Twrp_kiwi
 https://www.androidfilehost.com/?fid=817550096634743584
 
