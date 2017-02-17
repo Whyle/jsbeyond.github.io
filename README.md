@@ -2,6 +2,12 @@
 
 # (“原味Android荣耀5x刷机群” 194179249)
 
+### RR(OFFICIAL)
+https://sourceforge.net/projects/resurrectionremix/files/kiwi/
+
+### AospExtended（OFFICIAL）
+http://downloads.aospextended.com/kiwi/
+
 ### AICP
 https://www.androidfilehost.com/?w=files&flid=128285
 
@@ -10,9 +16,6 @@ https://www.androidfilehost.com/?w=files&flid=120463
 
 ### RR(UNOFFICIAL)
 https://www.androidfilehost.com/?w=files&flid=114595
-
-### RR(OFFICIAL)
-https://sourceforge.net/projects/resurrectionremix/files/kiwi/
 
 ### XOSP
 https://www.androidfilehost.com/?w=files&flid=143206
@@ -34,9 +37,6 @@ https://www.androidfilehost.com/?w=files&flid=144463
 
 ### Candy
 https://www.androidfilehost.com/?w=files&flid=151309
-
-### AospExtended（OFFICIAL）
-http://downloads.aospextended.com/kiwi/
 
 ### Twrp_kiwi
 https://www.androidfilehost.com/?fid=817550096634743584
