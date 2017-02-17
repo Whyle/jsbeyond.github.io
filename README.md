@@ -8,8 +8,9 @@ https://www.androidfilehost.com/?w=files&flid=128285
 ### AOKP
 https://www.androidfilehost.com/?w=files&flid=120463
 
-### RR
+### RR(OFFICIAL)
 https://www.androidfilehost.com/?w=files&flid=114595
+https://sourceforge.net/projects/resurrectionremix/files/kiwi/
 
 ### XOSP
 https://www.androidfilehost.com/?w=files&flid=143206
@@ -32,6 +33,9 @@ https://www.androidfilehost.com/?w=files&flid=144463
 ### Candy
 https://www.androidfilehost.com/?w=files&flid=151309
 
+### AospExtended（OFFICIAL）
+http://downloads.aospextended.com/kiwi/
+
 ### Twrp_kiwi
 https://www.androidfilehost.com/?fid=817550096634743584
 
@@ -49,8 +53,7 @@ https://www.androidfilehost.com/?w=files&flid=148312
 ### DU
 https://www.androidfilehost.com/?w=files&flid=108798
 
-### AospExtended
-https://www.androidfilehost.com/?w=files&flid=141042
+
 
 
 ### If you like my job,you can donate to me!!!thanks
