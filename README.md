@@ -8,8 +8,10 @@ https://www.androidfilehost.com/?w=files&flid=128285
 ### AOKP
 https://www.androidfilehost.com/?w=files&flid=120463
 
-### RR(OFFICIAL)
+### RR(UNOFFICIAL)
 https://www.androidfilehost.com/?w=files&flid=114595
+
+### RR(OFFICIAL)
 https://sourceforge.net/projects/resurrectionremix/files/kiwi/
 
 ### XOSP
