@@ -2,11 +2,17 @@
 
 # (“原味Android荣耀5x刷机群” 194179249)
 
-### RR(OFFICIAL)
+### If you like my job,you can donate to me!!!thanks
+   https://www.paypal.me/jsbeyond
+
+### OFFICIAL SUPPORT
+### RR
 https://sourceforge.net/projects/resurrectionremix/files/kiwi/
 
-### AospExtended（OFFICIAL）
+### AospExtended
 http://downloads.aospextended.com/kiwi/
+
+### UNOFFICIAL SUPPORT
 
 ### AICP
 https://www.androidfilehost.com/?w=files&flid=128285
@@ -14,29 +20,35 @@ https://www.androidfilehost.com/?w=files&flid=128285
 ### AOKP
 https://www.androidfilehost.com/?w=files&flid=120463
 
-### RR(UNOFFICIAL)
-https://www.androidfilehost.com/?w=files&flid=114595
+### BeanStalk
+https://www.androidfilehost.com/?w=files&flid=146003
 
-### XOSP
-https://www.androidfilehost.com/?w=files&flid=143206
+### Bliss
+https://www.androidfilehost.com/?w=files&flid=154079
+
+### Candy
+https://www.androidfilehost.com/?w=files&flid=151309
+
+### Cosmic-os
+https://www.androidfilehost.com/?w=files&flid=146719
 
 ### CRDROID
 https://www.androidfilehost.com/?w=files&flid=113241
 
+### RR
+https://www.androidfilehost.com/?w=files&flid=114595
+
 ### SLIMROM
 https://www.androidfilehost.com/?w=files&flid=108791
 
-### BeanStalk
-https://www.androidfilehost.com/?w=files&flid=146003
-
-### Cosmic-os
-https://www.androidfilehost.com/?w=files&flid=146719
- 
 ### SudaMod
 https://www.androidfilehost.com/?w=files&flid=144463
 
-### Candy
-https://www.androidfilehost.com/?w=files&flid=151309
+### XOSP
+https://www.androidfilehost.com/?w=files&flid=143206
+
+### HalogenOS
+https://www.androidfilehost.com/?w=files&flid=155150
 
 ### Twrp_kiwi
 https://www.androidfilehost.com/?fid=817550096634743584
@@ -54,12 +66,6 @@ https://www.androidfilehost.com/?w=files&flid=148312
  
 ### DU
 https://www.androidfilehost.com/?w=files&flid=108798
-
-
-
-
-### If you like my job,you can donate to me!!!thanks
-   https://www.paypal.me/jsbeyond
 
 Copyright (C) 2017 The LineageOS Project
 
