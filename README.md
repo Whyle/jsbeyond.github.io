@@ -35,6 +35,9 @@ https://www.androidfilehost.com/?w=files&flid=146719
 ### CRDROID
 https://www.androidfilehost.com/?w=files&flid=113241
 
+### HalogenOS
+https://www.androidfilehost.com/?w=files&flid=155150
+
 ### RR
 https://www.androidfilehost.com/?w=files&flid=114595
 
@@ -46,9 +49,6 @@ https://www.androidfilehost.com/?w=files&flid=144463
 
 ### XOSP
 https://www.androidfilehost.com/?w=files&flid=143206
-
-### HalogenOS
-https://www.androidfilehost.com/?w=files&flid=155150
 
 ### Twrp_kiwi
 https://www.androidfilehost.com/?fid=817550096634743584
