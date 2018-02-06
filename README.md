@@ -1,6 +1,6 @@
 # Support Huawei Honor5x 
 
-# (“原味Android荣耀5x刷机群” 194179249)
+# (“原味Android荣耀5x刷机群” QQ群：580296690)
 
 ### If you like my job,you can donate to me!!!thanks
    https://www.paypal.me/jsbeyond
@@ -10,7 +10,8 @@
 https://sourceforge.net/projects/resurrectionremix/files/kiwi/
 
 ### AospExtended
-http://downloads.aospextended.com/kiwi/
+https://www.androidfilehost.com/?w=files&flid=141042
+
 
 ### UNOFFICIAL SUPPORT
 
@@ -53,6 +54,9 @@ https://www.androidfilehost.com/?w=files&flid=143206
 ### Twrp_kiwi
 https://www.androidfilehost.com/?fid=817550096634743584
 
+### HalogenOS
+https://androidfilehost.com/?w=files&flid=155150
+
 ### Testing:
 
 ### zephyros
@@ -67,7 +71,11 @@ https://www.androidfilehost.com/?w=files&flid=148312
 ### DU
 https://www.androidfilehost.com/?w=files&flid=108798
 
-Copyright (C) 2017 The LineageOS Project
+### Oltre Rom...
+https://androidfilehost.com/?w=files&flid=108762
+
+
+Copyright (C) 2018 The Yuanwei Team
 
 Device configuration for Huawei Honor 5X
 ========================================
