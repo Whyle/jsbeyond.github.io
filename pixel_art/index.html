@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+  <head>
+<style>
+/* hide default checkbox icon */
+input[type="checkbox"] {
+  display: none;
+  margin: 0px 0px 0px 0px;
+}
+/* custom checkbox icon */
+.box {  
+    display: block;
+    background-color: black;
+    width: 40px;
+    height: 40px;
+	
+	
+	
+}
+
+/* custom checked checkbox icon + after checkbutton*/
+input[type="checkbox"]:checked + .box{
+    background-color: red;
+}
+
+.pixel {
+float: left;
+}
+
+.break{
+clear: left;
+}
+
+
+
+
+/**
+ * USER MODIFICABLE
+ *
+ **/
+/*Unchecked color and size*/
+.box{
+   background-color: black;
+   width: 25px;
+   height: 25px;
+	
+}
+/*Checked color*/
+input[type="checkbox"]:checked + .box{
+    background-color: red;
+}
+
+
+</style>
+
+
+  </head>
+
+  <body>
+	<h2>Please click a <u>pixel</u> to see effect.</h2>
+	<div id="main"></div>
+
+
+<script>
+//
+//  USER MODIFICABLE
+//
+// width = height = num
+var num = 8;
+//
+//
+//
+//
+//
+
+
+
+for (o = 0;o < num;o++)
+{
+    document.getElementById('main').innerHTML += html(o * num);
+}
+function html(start) {
+	var html = "<div class='pixel break'><input type='checkbox' id='checkbox" + start + "'/><label for='checkbox" + start + "' class='box'></label></div>";
+	for (i = start + 1; i < start + num;i++)
+	{
+		html += "<div class='pixel'><input type='checkbox' id='checkbox" + i + "'/><label for='checkbox" + i + "' class='box'></label></div>";
+	}
+	return html;
+}
+  
+  
+</script>
+
+  </body>
+</html>		
